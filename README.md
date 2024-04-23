@@ -17,19 +17,19 @@ Most of the time I work in Web Development, but I also have many other interests
 
  As I worked as a Full-Stack Developer, I used both Front- and Backend elements.
 
- ___Frontend:___⚛
+ _Frontend:_ ⚛
 
 -   Angular
 -   Vue3
 -   Basic (HTML, CSS, JavaScript)
 -   Used in my Projects: TailWindCSS, BootStrap
 
-___Backend:___ ⚙️👨‍💻
+_Backend:_ ⚙️👨‍💻
 
 -   Spring Boot (Java)
 -   NestJs (TypeScript)
 
-___Database:___🛢
+_Database:_ 🛢
 
 -   Postgres SQL
 -   MongoDB
