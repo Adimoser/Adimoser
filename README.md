@@ -21,6 +21,7 @@ Most of the time I work in Web Development, but I also have many other interests
 
 -   Angular
 -   Vue3
+-   Flutter (on the list)
 -   Basic (HTML, CSS, JavaScript)
 -   Used in my Projects: TailWindCSS, BootStrap
 
@@ -28,6 +29,7 @@ _Backend:_ ⚙️👨‍💻
 
 -   Spring Boot (Java)
 -   NestJs (TypeScript)
+-   .Net (C#)
 
 _Database:_ 🛢
 
