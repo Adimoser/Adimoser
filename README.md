@@ -15,7 +15,7 @@ Most of the time I work in Web Development, but I also have many other interests
 
  #### Web Development 🌐 </> 👨🏻‍💻
 
- As I worked as a Full-Stack Developer, I used both Front- and Backend elements.
+ Since I worked as a Full-Stack Developer, I used to do both Front- and Backend.
 
  _Frontend:_ ⚛
 
@@ -30,10 +30,11 @@ _Backend:_ ⚙️👨‍💻
 -   Spring Boot (Java)
 -   NestJs (TypeScript)
 -   .Net (C#)
+-   Laravel (PHP)
 
 _Database:_ 🛢
 
--   Postgres SQL
+-   PostgreSQL
 -   MongoDB
 -   Neo4J ❤️
 
@@ -57,10 +58,13 @@ Besides the used technologies, there are also things I whish to learn and use th
 
 -   More Unity
 -   Flutter (to code also for native components)
--   Android
 -   .Net (DotNet)
+-   Laravel
+
+As you can see I have alot of interest, but unfortunately to little time to implement them. 😢
+But it might show that I am also open to implement new things or investigate time to learn new technologies.
 
 That's about me :) 
 
-Feel free to check out my open repositories.
+Feel free to check out my open repositories or ask questions if you have any.
 
